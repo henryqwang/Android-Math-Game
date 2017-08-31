@@ -6,9 +6,9 @@ Upon finishing, user is allowed to restart the game with a 'Play Again' button.
 ### Screenshots
 
 #### Game in progress
-![Alt text](gameplaying.jpg?raw=true "Progress layout")
+![Progress layout](gameplaying.JPG?raw=true "Progress layout")
 
 #### Game finished, waiting to be restarted
-![Alt text](gamefinished.jpg?raw=true "Finished layout")
+![Progress layout](gamefinished.JPG?raw=true "Finished layout")
 
 
